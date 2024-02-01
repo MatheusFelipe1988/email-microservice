@@ -7,3 +7,4 @@ Microserviço desenvolvido de forma assincrona para a comunicação entre os MS 
 - Springboot 3.1.7
 - JavaMailSender
 - RabbitMQ para Mensageria
+- Postman 
